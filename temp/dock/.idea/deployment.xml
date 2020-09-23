@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="lavellejohn@35.246.47.169:22" showNewOnSourceInSync="false">
+    <serverData>
+      <paths name="lavellejohn@35.246.47.169:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_820" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu@ec2-63-35-151-175.eu-west-1.compute.amazonaws.com:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="tmp/pycharm_project_190/eo_chain" local="$PROJECT_DIR$/../../github_twm/eo_chain/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

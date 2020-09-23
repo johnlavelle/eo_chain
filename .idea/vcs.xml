@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/coastval_data_analysis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github_other/Scripts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github_other/terracotta" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github_pytroll/pyspectral" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github_pytroll/satpy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github_pytroll/trollsift" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github_twm/coasteye-chains" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github_twm/coasteye-web-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github_twm/coasteye_demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github_twm/coastval" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github_twm/coastval_insitu_matlab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github_twm/eo_chain" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github_twm/satpy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/other/BlenderGIS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/other/docker-esa-snap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/other/docker-steam" vcs="Git" />
+  </component>
+</project>

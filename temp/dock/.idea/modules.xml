@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///data/CoastVAL/.idea/CoastVAL.iml" filepath="/data/CoastVAL/.idea/CoastVAL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../github_twm/coastval/.idea/coastval.iml" filepath="$PROJECT_DIR$/../../github_twm/coastval/.idea/coastval.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../github_twm/coastval_insitu_matlab/.idea/coastval_insitu_matlab.iml" filepath="$PROJECT_DIR$/../../github_twm/coastval_insitu_matlab/.idea/coastval_insitu_matlab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../.idea/code.iml" filepath="$PROJECT_DIR$/../../.idea/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dock.iml" filepath="$PROJECT_DIR$/.idea/dock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../ec2eo/.idea/ec2eo.iml" filepath="$PROJECT_DIR$/../../ec2eo/.idea/ec2eo.iml" />
+    </modules>
+  </component>
+</project>
