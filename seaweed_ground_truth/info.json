@@ -1,0 +1,25 @@
+{
+  "exclude_photo": ["FS2", "FS2 BAD", "HE15"],
+  "exclude_coordinate": ["FS2", "HE15"],
+  "comments": {
+    "BASE": "Base used as reference for UAV",
+    "A27": "This point had a mixture, A on one side and FV on the other.",
+    "FS29": "Very brown/red Fucus serratus, possibly decaying, red-brown in colour.",
+    "HE6": "Young receptacles",
+    "HE7": "Buttons",
+    "HE8": "Mixture of receptacles and buttons",
+    "HE9": "Mature receptacle",
+    "HE11": "Youngish receptacles",
+    "HE16": "Young receptacles"
+  },
+  "names": {
+    "BASE": ["UAV Base", ""],
+    "FV": ["Fucus Vesiculosus", "Bladder Wrack"],
+    "A": ["Ascophyllum Nodosum", "Knotted Wrack"],
+    "FS": ["Fucus Serratus", "Toothed Wrack or Serrated Wrack"],
+    "HE": ["Himanthalia Elongata", "Sea Spaghetti"],
+    "FP": ["Fucus Spiralis", "Spiral Wrack"],
+    "PC": ["Pelvetia Canaliculata", "Channelled Wrack"],
+    "CL": ["Cladophora Rupestris", "Green Patch"]
+  }
+}
