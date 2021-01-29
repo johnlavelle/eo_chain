@@ -1,0 +1,5 @@
+OPTICAL ; sample_header ; start_time (time when poll cmd was send to instrument) ; end_time (time that data was received) ; sample delay ; integration time ; light data (comma seperated) ; dark samples ; dark average ; spectrometer temp ; timer ; 
+TILT    ; heading, pitch, roll , timestamp ; 
+SBE-39  ; temp (degrees) , pressure (decibars) , timestamp ;
+HYDROCAT-EP ; temperature, pressure, oxygen, pH, floursecence, turbidity, fluorescence standard deviation, turbidity standard deviation, specific conductivity, flags, timestamp ; 
+

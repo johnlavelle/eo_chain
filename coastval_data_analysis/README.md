@@ -1,0 +1,6 @@
+
+This report describes the conversion of the CoastVal MATLAB code to Python and the analysis of the data. CoastVal is a validation platform for validating Sentinel-3 OLCI data. For more detail on the deployment, see  CoastVal Updated Deployment Report, which was delivered on July 2019. 
+
+The original code to process the data for this deployment was created by Karl Moore, the optical scientist working for TechWorks Marine at the time of the deployment. The code to process the data from the instruments on CoastVal was written in MATLAB, and SNAP was used for processing the satellite data. Processing the data was time consuming as it involved manual steps. The MATLAB code was rewritten in Python to make it easier to handle and extend and to automate the entire processing of both the in situ and satellite data. This allows bulk processing, enabling, for example, the validation to be quickly re-run for reprocessed OLCI data.  This document describes the steps involved in processing the data.
+
+The code is described in the report in docs/coastval_refactored_code_report.pdf

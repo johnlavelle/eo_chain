@@ -1,0 +1,6 @@
+.idea
+.ipynb_checkpoints
+.old
+__pycache__
+.~lock*
+data/spectra_calibrated.h5
